@@ -1,0 +1,21 @@
+{
+  "name": "playbulb_nodejs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "playbulb.js",
+  "repository": {
+  },
+  "dependencies": {
+    "noble": "1.8.0",
+    "osc": "2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nariakiiwatani",
+  "license": "MIT",
+  "bugs": {
+  },
+  "homepage": ""
+}
