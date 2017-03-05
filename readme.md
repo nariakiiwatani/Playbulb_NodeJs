@@ -16,5 +16,14 @@ Currently only PLAYBULB SMART is supported.
 
 Blightness value will be clamped 0x00-0x14. (21steps)
 
+## Sample application
+launch `control_by_audio.app` and `control_smart_via_osc.js`
+
+```
+$ open control_by_audio.app
+$ npm install
+$ node control_smart_via_osc.js
+```
+
 ## Lisence
 MIT
